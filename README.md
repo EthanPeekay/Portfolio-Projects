@@ -1,16 +1,46 @@
-## Hi there 👋
+# Welcome to my GitHub portfolio! 
+I am Ethan, a Data Analyst with a passion for turning raw data into actionable insights. Here, you'll find a collection of my personal and professional projects, showcasing my skills in data analysis, visualization, and modeling.
 
-<!--
-**EthanPeekay/ethanpeekay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I specialize in:
 
-Here are some ideas to get you started:
+- Data Cleaning: Transforming messy datasets into usable formats.
+- Python: Writing efficient scripts for data processing and analysis.
+- Exploratory Data Analysis (EDA): Discovering patterns, trends, and outliers in data.
+- Data Visualization: Creating clear and compelling visuals using tools like Tableau, Matplotlib, Seaborn, and Plotly.
+- Statistical Analysis: Conducting hypothesis testing and regression analysis to derive meaningful conclusions.
+- SQL: Querying databases to extract, filter, and analyze large datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Featured Projects
+### 1. Customer Churn Analysis
+
+- Overview: Predicting customer churn for a telecom company using logistic regression and decision trees.
+- Key Skills: Data cleaning, feature engineering, model evaluation.
+- Tools: Python (Pandas, Scikit-learn), SQL, Matplotlib.
+  
+### 2. Sales Data Dashboard
+
+- Overview: Built an interactive dashboard to track sales KPIs and trends over time.
+- Key Skills: Data visualization, dashboard creation, KPI analysis.
+- Tools: Tableau, Python (Plotly), Excel.
+  
+### 3. A/B Testing for Marketing Campaigns
+
+- Overview: Conducted A/B testing to evaluate the effectiveness of different marketing strategies.
+- Key Skills: Statistical analysis, hypothesis testing.
+- Tools: Python (SciPy), SQL.
+
+## Skills
+- Programming: Python, SQL,
+- Data Analysis Tools: Pandas, NumPy, Matplotlib, Seaborn
+- Databases: MySQL, SQL Server
+- Data Visualization: Tableau, Power BI, Plotly
+- Version Control: Git, GitHub
+
+## Contact
+Feel free to reach out for collaboration or opportunities:
+
+LinkedIn: [EthanP.Muchenje](https://www.linkedin.com/in/ethanpeekay97)
+
+Email: [ethanpmuchenje@gmail.com](ethanpmuchenje@gmail.com)
