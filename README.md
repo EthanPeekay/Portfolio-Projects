@@ -35,8 +35,8 @@ I specialize in:
 - Programming: Python, SQL,
 - Data Analysis Tools: Pandas, NumPy, Matplotlib, Seaborn
 - Databases: MySQL, SQL Server
-- Data Visualization: Tableau, Power BI, Plotly
-- Version Control: Git, GitHub
+- Data Visualization: Tableau, Plotly
+- Version Control: Git
 
 ## Contact
 Feel free to reach out for collaboration or opportunities:
@@ -44,3 +44,5 @@ Feel free to reach out for collaboration or opportunities:
 LinkedIn: [EthanP.Muchenje](https://www.linkedin.com/in/ethanpeekay97)
 
 Email: [ethanpmuchenje@gmail.com](ethanpmuchenje@gmail.com)
+
+[Ethan's Curriculum Vitae](https://github.com/user-attachments/files/17280718/Ethanpmuchenje--CV.pdf)
