@@ -1,5 +1,5 @@
 # Welcome to my GitHub portfolio! 
-I am Ethan, a Data Analyst with a passion for turning raw data into actionable insights. Here, you'll find a collection of my personal and professional projects, showcasing my skills in data analysis, visualization, and modeling.
+I am Ethan, a Data Analyst (Junior Data Scientist) with a passion for turning raw data into actionable insights. Here, you'll find a collection of my personal and professional projects, showcasing my skills in data analysis, visualization, and modeling.
 
 ## About Me
 I specialize in:
