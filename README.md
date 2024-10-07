@@ -13,7 +13,7 @@ I specialize in:
 
 
 ## Featured Projects
-### 1. Customer Churn Analysis
+### 1. [Customer Churn Analysis](https://github.com/EthanPeekay/Portfolio-Projects/tree/main/churn%20analysis)
 
 - Overview: Predicting customer churn for a telecom company using logistic regression and decision trees.
 - Key Skills: Data cleaning, feature engineering, model evaluation.
