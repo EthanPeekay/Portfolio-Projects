@@ -19,7 +19,7 @@ I specialize in:
 - Key Skills: Data cleaning, feature engineering, model evaluation.
 - Tools: Python (Pandas, Scikit-learn), SQL, Matplotlib.
   
-### 2. Sales Data Dashboard
+### 2. [Sales Data Dashboard](https://github.com/EthanPeekay/Portfolio-Projects/tree/main/TechSales)
 
 - Overview: Built an interactive dashboard to track sales KPIs and trends over time.
 - Key Skills: Data visualization, dashboard creation, KPI analysis.
