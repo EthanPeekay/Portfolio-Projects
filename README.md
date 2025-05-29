@@ -45,4 +45,3 @@ LinkedIn: [EthanP.Muchenje](https://www.linkedin.com/in/ethanpeekay97)
 
 Email: [ethanpmuchenje@gmail.com](ethanpmuchenje@gmail.com)
 
-[Ethan's Curriculum Vitae](https://github.com/user-attachments/files/17281076/Ethanpmuchenje--CV.pdf)
