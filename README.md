@@ -2,7 +2,7 @@
 
 I’m Ethan, a Data Analyst and Web App Developer with a passion for turning raw data into actionable insights and building dynamic, user-friendly web applications. This portfolio showcases a mix of my data-driven projects and web development work.
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 I specialize in:
 - Data Cleaning: Transforming messy datasets into usable formats.
@@ -13,12 +13,12 @@ I specialize in:
 - SQL: Querying databases to extract, filter, and analyze large datasets.
 - Web App Development: Building scalable web applications using Laravel (PHP), with clean backend logic and responsive frontend design.
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
-1. Customer Churn Analysis
-### Overview:
+## 1. Customer Churn Analysis
+#### Overview:
 Predicting customer churn for a telecom company using logistic regression and decision trees.
- ### Key Skills:
+ #### Key Skills:
 - Data cleaning, feature engineering, model evaluation.
 - Tools:
 - Python (Pandas, Scikit-learn), SQL, Matplotlib.
