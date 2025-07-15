@@ -41,6 +41,19 @@ Predicting customer churn for a telecom company using logistic regression and de
 - Data Visualization: Tableau, Plotly
 - Version Control: Git
 
+## Pizza Hut Sales Report 2024
+This interactive Power BI dashboard provides a comprehensive analysis of Pizza Hut’s sales performance for 2024. Key insights include:
+	•	Total Revenue: $72.56K
+	•	Pizzas Sold: 4,392
+	•	Total Orders: 1,935
+
+Visualizations highlight:
+	•	Top-selling pizza categories and individual pizzas
+	•	Monthly revenue trends
+	•	Peak sales hours for optimized operations
+Interactive slicers allow filtering by category, size, and month for dynamic exploration
+
+
 ## 📬 Contact
 
 Feel free to reach out for collaboration or opportunities:
